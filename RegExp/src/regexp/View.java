@@ -83,7 +83,7 @@ public class View {
 
 				
 		
-		caseSensitive =new JRadioButton("Case sensitive");	
+		caseSensitive = new JRadioButton("Case sensitive");	
 		caseSensitive.addActionListener(new ActionListener() {	
 			public void actionPerformed(ActionEvent arg0) {
 				
